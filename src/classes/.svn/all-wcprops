@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/6/trunk/src/classes
+END
+GW_CTRL_CampaignCombiner.cls
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/classes/GW_CTRL_CampaignCombiner.cls
+END
+GW_BATCH_CombineCampaigns.cls-meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/classes/GW_BATCH_CombineCampaigns.cls-meta.xml
+END
+GW_CTRL_CampaignCombiner.cls-meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/classes/GW_CTRL_CampaignCombiner.cls-meta.xml
+END
+GW_CTRL_BatchJobsProgress.cls
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/classes/GW_CTRL_BatchJobsProgress.cls
+END
+GW_CTRL_BatchJobsProgress.cls-meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/classes/GW_CTRL_BatchJobsProgress.cls-meta.xml
+END
+GW_BATCH_CombineCampaigns.cls
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/src/classes/GW_BATCH_CombineCampaigns.cls
+END
